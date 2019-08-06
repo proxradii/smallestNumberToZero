@@ -19,7 +19,7 @@ int main(){
    int numOne = 5;
    int numTwo = 10;
    smallNumber(numOne, numTwo);
-   cout << "numOne is: " << numOne << endl << "numTwo is " << numTwo << endl;
+   cout << "numOne is: " << numOne << endl << "numTwo is " << numTwo << endl; // prints `numOne is 0 numTwo is 10`
 
    return 0;
    }
